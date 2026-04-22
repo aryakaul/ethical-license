@@ -1,7 +1,7 @@
                            ETHICAL LICENSE 
-                    Version 3, 02 September 2021
+                    Version 5, 22 April 2026
 
- Copyright (C) 2020 Arya Kaul 
+ Copyright (C) 2023 Arya Kaul 
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -22,7 +22,7 @@ modification software licensed under this license follow.
 
   0. Definitions.
 
-  "This License" refers to version 2 of the Ethical License.
+  "This License" refers to version 5 of the Ethical License.
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
@@ -300,12 +300,38 @@ of it:
     a) The program may not be used in applications and services that
     are used for or aid in the exploration, extraction, refinement,
     processing, or transportation of fossil fuels.
-    b) The program may not be used in applications and services that
-    are used for or aid in the surveillance, subjugation, or interrogation
-    of a group of individual(s).
-    c) The program may not be used in applications and services that
-    are used for or aid in the marketing of goods and/or services to
-    a group of individual(s).
+    b) The program may not be used in applications and services
+    that are used for or aid in surveillance, subjugation,
+    interrogation, behavioral profiling, biometric identification
+    at scale, facial recognition for tracking or control, predictive
+    policing, social credit scoring, or any other system designed
+    to monitor, classify, coerce, or restrict the freedoms of
+    individual(s) or groups without their explicit and ongoing
+    consent.
+    c) The program may not be used in applications and services
+    that collect, analyze, or exploit personal data for commercial
+    purposes without the explicit prior consent of the individual(s)
+    concerned, or that facilitate unsolicited commercial
+    communications, microtargeting, audience segmentation for
+    advertising, dark pattern design, or any form of commercial
+    persuasion that operates without the individual's knowledge
+    or meaningful choice.
+    d) The program may not be used as training data, fine-tuning
+    data, reinforcement signal, or any other input to machine
+    learning or artificial intelligence systems without the explicit
+    opt-in consent of the original copyright holder. Any model
+    trained with such consent must, as a condition of that consent,
+    adopt and enforce the ethical restrictions enumerated in this
+    section as binding constraints on its deployment and use. These
+    restrictions shall propagate to any downstream models derived
+    from or trained using such a model.
+    e) The program may not be used in applications and services
+    that are used for or aid in warfighting, including but not
+    limited to autonomous weapons systems, targeting and fire
+    control systems, military strike planning, lethal autonomous
+    decision-making, or any other application whose primary purpose
+    is to cause harm in armed conflict. Humanitarian, defensive,
+    and peacekeeping applications are not excluded by this clause.
   
   8. Termination.
 
@@ -452,24 +478,31 @@ to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
   
-  13. Penalties
+  13. Remedies for Violations.
 
-  Violations of any of the terms and conditions included in the License
-will lead to the following penalties administered under the supervision
-of a judge appointed from the International Court of Justice in The 
-Hague:
+  Violations of any of the terms and conditions of this License,
+particularly the restrictions enumerated in section 7, entitle
+the copyright holder to seek the following remedies in any court
+of competent jurisdiction:
 
-    a) Robert Downey Jr. dressed in an Iron Man suit will poke the 
-    offender with a long stick
-    b) The offender will have to bake two large apple pies. The first,
-    will be thrown in the offender's face by the initial License holder.
-    The second will be eaten by the initial License holder.
-    c) The offender will be forced to write 'I will not break License
-    agreements' on a chalkboard a total of 5,901 times.
-    d) The offender will have to get a tattoo in a location and design
-    to the exact specifications of the initial License holder.
-    e) The offender will donate 99% of their net wealth to a charity  
-    of the initial License holder's choosing.
+    a) Immediate injunctive or equitable relief to halt continued
+    violation, without requirement to post bond or prove actual
+    damages.
+    b) Actual damages sustained by the copyright holder as a
+    result of the violation, including lost revenue, costs
+    incurred, and reputational harm.
+    c) Disgorgement of all profits derived by the violating party
+    from any use of the covered work in violation of this License.
+    d) Statutory damages where available under applicable copyright
+    or intellectual property law, elected at the copyright holder's
+    discretion in lieu of actual damages.
+    e) Reasonable attorney's fees and all costs of litigation
+    incurred in enforcing this License.
+    f) A court-ordered donation, at the copyright holder's
+    direction, of an amount no less than the greater of the
+    disgorgement amount in (c) or $10,000 USD, to a charitable
+    organization selected by the copyright holder whose mission
+    addresses harms of the kind caused by the violation.
 
   14. Disclaimer of Warranty.
 
